@@ -15,6 +15,7 @@ Google Authentication: Secure access with Google-based authentication.
 Campaign Log: Store campaign details and track delivery status.
 
 Tech Stack
+
 Frontend: React.js
 Backend: Node.js
 Database: MongoDB
