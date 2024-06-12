@@ -35,3 +35,5 @@ For every created audience, find detailed insights stored in our communications 
 Track the status of your communication log entries effortlessly! Our Delivery Receipt API ensures timely updates, marking entries as SENT/FAILED, as communicated by the Vendor API.
 
 Explore, Engage, and Excel with our Mini CRM Application! 💼
+
+
