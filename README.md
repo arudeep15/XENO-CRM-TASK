@@ -13,6 +13,7 @@ Rule Customization: Add multiple rules and combine them with AND/OR conditions.
 Campaign History: View past campaigns with the latest on top.
 Google Authentication: Secure access with Google-based authentication.
 Campaign Log: Store campaign details and track delivery status.
+
 Tech Stack
 Frontend: React.js
 Backend: Node.js
